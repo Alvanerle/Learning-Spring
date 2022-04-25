@@ -1,8 +1,6 @@
-package ru.alishev.springcourse;
+package ru.imangali.spring;
 
-/**
- * @author Neil Alishev
- */
+
 public class TestBean {
     private String name;
 
