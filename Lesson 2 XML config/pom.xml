@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.imangali.spring</groupId>
-  <artifactId>SpringAppDemo(XML Config)</artifactId>
+  <artifactId>spring-app1</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
@@ -31,21 +31,21 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
-      <version>5.1.4.RELEASE</version>
+      <version>5.3.19</version>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>
-      <version>5.1.4.RELEASE</version>
+      <version>5.3.19</version>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>5.1.4.RELEASE</version>
+      <version>5.3.19</version>
     </dependency>
 
   </dependencies>
